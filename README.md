@@ -1,7 +1,9 @@
 # Renan Raad
 
 **Defensive AI Systems Builder**
-Codex CLI · Codex Security · Secure Remediation · Patch Validation · Human-in-the-loop Workflows · Audit-ready Evidence
+
+Codex CLI · Codex Security · Secure Remediation · Patch Validation
+Human-in-the-loop Workflows · Audit-ready Evidence
 
 I build public, sanitized, defensive AI security labs that show how AI-assisted security workflows can remain scoped, reviewed, validated, and safe to publish.
 
